@@ -1,0 +1,112 @@
+
+.yo {
+    width:300px;
+    height:300px;
+    border-radius:150px;
+    border:10px solid #666;
+    position: absolute;
+
+}
+.rectangulo {
+     width: 790px; 
+     height: 200px; 
+      border: red 10px dotted;
+     position: absolute;
+     right: 290px;
+     border-color: black;
+     font-family: arial;
+     font-size: 30px;
+
+}
+.colombia {
+	position: absolute;
+	right: 670px;
+	font-size: 32px;
+	top:-6px;
+	font-family: helvetica;
+
+}
+.hola {
+	position: absolute;
+	right: 470px;
+	font-size: 30px;
+	top:-4px;
+	font-family: helvetica;
+}
+.televisor {
+	position: absolute;
+	right: 610px;
+	top: 125px;
+	font-size: 26px;
+	font-family: helvetica;
+}
+.año {
+	position: absolute;
+	right: 490px;
+	top: 125px;
+	font-size: 26px;
+	font-family: helvetica;
+}
+.simon1 {
+
+	width:275px;
+	height:100px;
+	left:100px;
+	top:340px;
+	text-align: center;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:50px;
+	font-family:helvetica;
+	font-size:49px;
+	display:block;
+	
+
+}
+.simon2 {
+width:275px;
+	height:100px;
+	left:420px;
+	top:342px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+		font-size:49px;
+}
+.simon3 {
+	width:275px;
+	height:100px;
+	left:720px;
+	top:342px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+		font-size:49px;
+
+}
+.simon4 {
+	width:275px;
+	height:100px;
+	left:1010px;
+	top:342px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+		font-size:49px;
+
+
+}

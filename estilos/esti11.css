@@ -1,0 +1,199 @@
+.perie {
+	font-family: helvetica;
+	text-align: center;
+	font-size: 30px;
+	color: #82E0AA;	
+}
+.menu {
+top: -30px;
+
+}
+.depende {
+	width:175px;
+	height:80px;
+	left:300px;
+	top:100px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+	font-size:35px;
+	display:block;
+}
+.hola {
+width:200px;
+	height:80px;
+	left:600px;
+	top:100px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+	font-size:35px;
+	display:block;
+}
+.mejor {
+width:200px;
+	height:80px;
+	left:900px;
+	top:100px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+	font-size:35px;
+	display:block;
+}
+.triangulo {
+	width:175px;
+	height:80px;
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+	border-radius: 40px;
+     position: absolute;
+     right: 650px;
+     border-color: black;
+     font-family: arial;
+     font-size: 40px;
+     top: 300px;
+
+
+
+
+}
+.cuadro {
+	  width: 950px; 
+     height: 300px; 
+      border: red 10px dotted;
+     position: absolute;
+     right: 290px;
+     border-color: black;
+     font-family: arial;
+     font-size: 20px;
+     top: 480px;
+}
+
+.tabla {
+width:175px;
+	height:80px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 40px;
+     position: absolute;
+     right: 650px;
+     border-color: black;
+     font-family: arial;
+     font-size: 40px;
+     top: 850px;
+}
+.coco {
+width:210px;
+	height:80px;
+	left:560px;
+	top:1030px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+	font-size:35px;
+	display:block;
+
+
+}
+.cuatro {
+
+ width: 950px; 
+     height: 300px; 
+      border: red 10px dotted;
+     position: absolute;
+     right: 290px;
+     border-color: black;
+     font-family: arial;
+     font-size: 20px;
+     top: 1200px;
+}
+.segunda {
+width:175px;
+	height:80px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 50px;
+     position: absolute;
+     right: 650px;
+     border-color: black;
+     font-family: arial;
+     font-size: 40px;
+     top: 1550px;
+}
+.antonio {
+	width:210px;
+	height:80px;
+	left:560px;
+	top:1680px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+	font-size:35px;
+	display:block;
+}
+.colombia {
+	width: 950px; 
+     height: 300px; 
+      border: red 10px dotted;
+     position: absolute;
+     right: 290px;
+     border-color: black;
+     font-family: arial;
+     font-size: 20px;
+     top: 1850px;
+}
+.ultimo {
+width:175px;
+	height:80px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 50px;
+     position: absolute;
+     right: 650px;
+     border-color: black;
+     font-family: arial;
+     font-size: 40px;
+     top: 2200px;
+
+
+
+}
+
+.pelota {
+width:175px;
+	height:80px;
+	left:800px;
+	top:100px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+	font-size:35px;
+	display:block;
+
+}
